@@ -1,0 +1,6 @@
+[
+    { "id": "1", "name": "Dog", "scientific_name": "Canis lupus familiaris", "average_lifespan": "10 – 13 years", "created_at": "2021-10-09 09:59:12", "updated_at": "2021-10-09 10:13:59" },
+    { "id": "2", "name": "Cat", "scientific_name": "Felis catus", "average_lifespan": "2 – 16 years", "created_at": "2021-10-09 10:06:22", "updated_at": "2021-10-09 10:06:22" },
+    { "id": "4", "name": "Hawk", "scientific_name": "Buteo", "average_lifespan": "20", "created_at": "2021-11-05 04:40:13", "updated_at": "2021-11-05 04:40:13" },
+    { "id": "5", "name": "White-tailed Eagle", "scientific_name": "Haliaeetus albicilla", "average_lifespan": "14-20", "created_at": "2021-11-05 04:45:07", "updated_at": "2021-11-05 04:45:07" }
+]
